@@ -28,6 +28,8 @@ Effortlessly update your TikTok username, even with restricted characters.
      sudo apt-get install python3.11
      ```
 
+ - You can fork this repository and create a Github Codespace, where you can do the next step.
+
 ### 4. **Run the Script**
    - Open your terminal or command prompt.
    - Navigate to the directory where the script is located. For example:
